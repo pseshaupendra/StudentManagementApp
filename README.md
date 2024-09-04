@@ -41,7 +41,7 @@
     <li>Refresh the Frontend page in browser and use the project</li>
   </ol>
 
-  <h3><b> &#8226; Issues in Project</b></h3>
+  <h3><b> &#8226; Issues in Project:</b></h3>
   The edit student details has some bugs page has a bug related to updation of details in database.
   
 </p>
