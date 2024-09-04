@@ -31,7 +31,7 @@
         <li>For Backend: </li>
         <ol>
           <li>Open <b>pom.xml</b> file and ensure all the dependencies, versions match with your installed Softwares. If not modify and apply Maven changes.</li>
-          <li>Head to <b>StudentManagementApp-main\StudentManagementBackend\src\main\java\com\StudentManagement</b> directory and open <b>StudentManagementBackendAppApplication</b> file.</li>
+          <li>Head to <b>StudentManagementBackend\src\main\java\com\StudentManagement</b> directory and open <b>StudentManagementBackendAppApplication</b> file.</li>
           <li>Click on <b>Run</b> button(indicated in a green traingular arrow)</li>
           <li>If any errors found, analyze them and solve accordingly.</li>
           <li>Now the Backend is started</li>
